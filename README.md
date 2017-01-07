@@ -1,7 +1,7 @@
 Miss Lexotan 8
 ===============
 
-This is a polymorphic sample first released in 1998 and was the precursor to Lexotan32.  The sample was wrote by a malware writer called
+This is a metamorphic sample first released in 1998 and was the precursor to Lexotan32.  The sample was wrote by a malware writer called
 Vecna.
 
 Requirements
