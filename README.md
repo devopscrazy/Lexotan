@@ -1,4 +1,4 @@
-Miss Lexotan 8
+Miss Lexotan 6mg
 ===============
 
 This is a metamorphic sample first released in 1998 and was the precursor to Lexotan32.  The sample was wrote by a malware writer called
